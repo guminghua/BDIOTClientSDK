@@ -1,0 +1,6 @@
+framework module BDIOTClientSDK {
+  umbrella header "BDIOTClientSDK.h"
+
+  export *
+  module * { export * }
+}
